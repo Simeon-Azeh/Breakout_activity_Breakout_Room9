@@ -32,6 +32,13 @@ class ProductNavigationPage extends StatelessWidget {
       backgroundColor: const Color.fromARGB(255, 36, 182, 7),
       rating: 3,
     ),
+      Product(
+      name: 'hard drive',
+      description: 'hard drive is the stylist phone ever',
+      price: 30.0,
+      backgroundColor: const Color.fromARGB(255, 36, 182, 7),
+      rating: 3,
+    ),
   ];
 
   @override
